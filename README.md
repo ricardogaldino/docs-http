@@ -1,2 +1,1 @@
-# docs-http
-HTTP (Hypertext Transfer Protocol)
+# HTTP (Hypertext Transfer Protocol)
